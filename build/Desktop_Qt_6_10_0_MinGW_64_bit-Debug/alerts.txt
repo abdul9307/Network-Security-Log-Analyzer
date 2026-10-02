@@ -1,0 +1,12 @@
+2025-03-01T10:01:00 - Brute-force alert, SourceIP: 10.0.0.1, user: alice, fails: 3
+2025-03-01T10:04:30 - Brute-force alert, SourceIP: 10.0.0.1, user: alice, fails: 4
+2025-03-01T12:00:00 - Brute-force alert, SourceIP: 10.0.0.3, user: bob, fails: 4
+2025-03-01T12:00:30 - Brute-force alert, SourceIP: 10.0.0.3, user: bob, fails: 5
+2025-03-01T12:01:00 - Brute-force alert, SourceIP: 10.0.0.3, user: bob, fails: 6
+2025-03-01T12:01:30 - Brute-force alert, SourceIP: 10.0.0.3, user: bob, fails: 7
+2025-03-01T12:02:00 - Brute-force alert, SourceIP: 10.0.0.3, user: bob, fails: 8
+2025-03-01T12:02:30 - Brute-force alert, SourceIP: 10.0.0.3, user: bob, fails: 9
+2025-03-01T12:03:00 - Brute-force alert, SourceIP: 10.0.0.3, user: bob, fails: 10
+2025-03-01T12:03:30 - Brute-force alert, SourceIP: 10.0.0.3, user: bob, fails: 11
+2025-03-01T12:04:00 - Brute-force alert, SourceIP: 10.0.0.3, user: bob, fails: 12
+2025-03-01T12:04:30 - Brute-force alert, SourceIP: 10.0.0.3, user: bob, fails: 13

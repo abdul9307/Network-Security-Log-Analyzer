@@ -1,0 +1,101 @@
+# ninja log v6
+55	387	7850137585531665	MySOCApp_autogen/timestamp	e53e83d6f5a3ee62
+1079	5131	7850136280651209	CMakeFiles/MySOCApp.dir/main.cpp.obj	1d1e776b8035846e
+55	387	7850137585531665	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/MySOCApp_autogen/timestamp	e53e83d6f5a3ee62
+1095	6232	7850136280811583	CMakeFiles/MySOCApp.dir/logicanalyzer.cpp.obj	41a12e647fc140b8
+55	387	7850137585531665	MySOCApp_autogen/mocs_compilation.cpp	e53e83d6f5a3ee62
+55	387	7850137585531665	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/MySOCApp_autogen/mocs_compilation.cpp	e53e83d6f5a3ee62
+1072	5137	7850136280574204	CMakeFiles/MySOCApp.dir/MySOCApp_autogen/mocs_compilation.cpp.obj	834b3256d7f940a5
+69	412	7850147685381137	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+415	7382	7850147688841161	CMakeFiles/ProjectFinal.dir/mainwindow.cpp.obj	9ce257ad02b62e06
+69	412	7850147685381137	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+69	412	7850147685381137	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+69	412	7850147685381137	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+1676	6849	7850146288883514	CMakeFiles/ProjectFinal.dir/main.cpp.obj	1b7110093ecddceb
+1668	6935	7850146288803547	CMakeFiles/ProjectFinal.dir/ProjectFinal_autogen/mocs_compilation.cpp.obj	4bc40e49ce1659f6
+7383	8814	7850147758509615	ProjectFinal.exe	73d09d552f75f3e9
+1618	7443	7850140942496088	CMakeFiles/ProjectFinal.dir/logicanalyzer.cpp.obj	2d614605bf8cb126
+1692	6717	7850146289045971	CMakeFiles/ProjectFinal.dir/ProjectFinal_autogen/EWIEGA46WW/moc_mainwindow.cpp.obj	52870655aa4f703c
+37	1160	7850156829534927	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+37	1160	7850156829534927	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+37	1160	7850156829534927	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+37	1160	7850156829534927	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+1169	5184	7850156830935426	CMakeFiles/ProjectFinal.dir/main.cpp.obj	1b7110093ecddceb
+1162	5212	7850156830858931	CMakeFiles/ProjectFinal.dir/ProjectFinal_autogen/mocs_compilation.cpp.obj	4bc40e49ce1659f6
+1181	5751	7850156831065632	CMakeFiles/ProjectFinal.dir/logicanalyzer.cpp.obj	2d614605bf8cb126
+1175	6363	7850156831005503	CMakeFiles/ProjectFinal.dir/mainwindow.cpp.obj	9ce257ad02b62e06
+6363	7230	7850156882880233	ProjectFinal.exe	73d09d552f75f3e9
+23	325	7850162029166388	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+23	325	7850162029166388	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+23	325	7850162029166388	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+23	325	7850162029166388	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+327	4981	7850162032202383	CMakeFiles/ProjectFinal.dir/mainwindow.cpp.obj	9ce257ad02b62e06
+4981	5700	7850162078746789	ProjectFinal.exe	73d09d552f75f3e9
+112	1318	7850950727419329	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+112	1318	7850950727419329	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+112	1318	7850950727419329	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+112	1318	7850950727419329	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+54	1184	7850951517134818	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+54	1184	7850951517134818	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+54	1184	7850951517134818	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+54	1184	7850951517134818	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+1205	3643	7850951518655930	CMakeFiles/ProjectFinal.dir/logicanalyzer.cpp.obj	2d614605bf8cb126
+1193	5120	7850951518535896	CMakeFiles/ProjectFinal.dir/main.cpp.obj	1b7110093ecddceb
+1186	5310	7850951518465903	CMakeFiles/ProjectFinal.dir/ProjectFinal_autogen/mocs_compilation.cpp.obj	4bc40e49ce1659f6
+56	325	7850951689985117	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+56	325	7850951689985117	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+56	325	7850951689985117	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+56	325	7850951689985117	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+336	2268	7850951692780489	CMakeFiles/ProjectFinal.dir/logicanalyzer.cpp.obj	2d614605bf8cb126
+75	1518	7850956055605332	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+75	1518	7850956055605332	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+75	1518	7850956055605332	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+75	1518	7850956055605332	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+91	1412	7850956248251934	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+91	1412	7850956248251934	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+91	1412	7850956248251934	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+91	1412	7850956248251934	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+1445	3856	7850956250353277	CMakeFiles/ProjectFinal.dir/logicanalyzer.cpp.obj	2d614605bf8cb126
+1424	5565	7850956249917294	CMakeFiles/ProjectFinal.dir/main.cpp.obj	1b7110093ecddceb
+1414	5739	7850956249827287	CMakeFiles/ProjectFinal.dir/ProjectFinal_autogen/mocs_compilation.cpp.obj	4bc40e49ce1659f6
+50	1211	7850958808776330	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+50	1211	7850958808776330	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+50	1211	7850958808776330	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+50	1211	7850958808776330	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+1233	3571	7850958810702123	CMakeFiles/ProjectFinal.dir/logicanalyzer.cpp.obj	2d614605bf8cb126
+1219	5980	7850958810562147	CMakeFiles/ProjectFinal.dir/main.cpp.obj	1b7110093ecddceb
+1213	6058	7850958810492106	CMakeFiles/ProjectFinal.dir/ProjectFinal_autogen/mocs_compilation.cpp.obj	4bc40e49ce1659f6
+58	347	7850960294661352	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+58	347	7850960294661352	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+58	347	7850960294661352	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+58	347	7850960294661352	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+350	4972	7850960297580839	CMakeFiles/ProjectFinal.dir/mainwindow.cpp.obj	9ce257ad02b62e06
+77	1433	7850962569627298	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+77	1433	7850962569627298	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+77	1433	7850962569627298	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+77	1433	7850962569627298	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+1436	5736	7850962571289518	CMakeFiles/ProjectFinal.dir/ProjectFinal_autogen/mocs_compilation.cpp.obj	4bc40e49ce1659f6
+1444	5811	7850962571369558	CMakeFiles/ProjectFinal.dir/main.cpp.obj	1b7110093ecddceb
+1452	6969	7850962571447458	CMakeFiles/ProjectFinal.dir/mainwindow.cpp.obj	9ce257ad02b62e06
+6969	7541	7850962626619077	ProjectFinal.exe	73d09d552f75f3e9
+21	315	7850966716870576	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+21	315	7850966716870576	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+21	315	7850966716870576	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+21	315	7850966716870576	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+323	2218	7850966719881439	CMakeFiles/ProjectFinal.dir/logicanalyzer.cpp.obj	2d614605bf8cb126
+316	5393	7850966719821498	CMakeFiles/ProjectFinal.dir/mainwindow.cpp.obj	9ce257ad02b62e06
+5393	5998	7850966770595713	ProjectFinal.exe	73d09d552f75f3e9
+18	271	7850971591343521	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+18	271	7850971591343521	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+18	271	7850971591343521	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+18	271	7850971591343521	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+280	2160	7850971593946371	CMakeFiles/ProjectFinal.dir/logicanalyzer.cpp.obj	2d614605bf8cb126
+272	5135	7850971593864418	CMakeFiles/ProjectFinal.dir/mainwindow.cpp.obj	9ce257ad02b62e06
+5135	5766	7850971642512747	ProjectFinal.exe	73d09d552f75f3e9
+50	312	7850973481763640	ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+50	312	7850973481763640	ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+50	312	7850973481763640	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/timestamp	adb65e9ea2b82f12
+50	312	7850973481763640	C:/Users/mabdu/Downloads/School/Computer/Project Final/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Debug/ProjectFinal_autogen/mocs_compilation.cpp	adb65e9ea2b82f12
+321	2094	7850973484427159	CMakeFiles/ProjectFinal.dir/logicanalyzer.cpp.obj	2d614605bf8cb126
+314	4777	7850973484407058	CMakeFiles/ProjectFinal.dir/mainwindow.cpp.obj	9ce257ad02b62e06
+4777	5362	7850973529017197	ProjectFinal.exe	73d09d552f75f3e9

@@ -1,0 +1,5 @@
+C:/Users/mabdu/Downloads/School/Computer/Project Final - Copy (2)/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release/CMakeFiles/ProjectFinal.dir
+C:/Users/mabdu/Downloads/School/Computer/Project Final - Copy (2)/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/mabdu/Downloads/School/Computer/Project Final - Copy (2)/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/mabdu/Downloads/School/Computer/Project Final - Copy (2)/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release/CMakeFiles/ProjectFinal_autogen_timestamp_deps.dir
+C:/Users/mabdu/Downloads/School/Computer/Project Final - Copy (2)/Project/build/Desktop_Qt_6_10_0_MinGW_64_bit-Release/CMakeFiles/ProjectFinal_autogen.dir
