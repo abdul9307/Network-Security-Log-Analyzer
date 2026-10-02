@@ -1,37 +1,41 @@
-# Network Security Log Analyzer & Threat Detection System
+# Network Security Log Analyzer
 
-A C++ and Qt6 Graphical User Interface (GUI) application designed to parse network security log files, perform real-time security threat analysis (DoS, Brute-Force, Port Scanning), manage IP whitelists, dynamically configure detection thresholds, and export security reports.
-
----
-
-## Key Features
-
-- **Multi-Vector Threat Detection Engine:**
-  - **Denial of Service (DoS):** Tracks action spikes per source IP within configurable sliding time windows.
-  - **Brute-Force Detection:** Monitors failed login attempts target-by-target within specified time limits.
-  - **Port Scanning Detection:** Identifies distinct destination port access attempts originating from single source IPs.
-- **Whitelist Management:** Exclude trusted IP addresses dynamically or via persistent storage (`whitelist.txt`).
-- **Interactive Qt Interface:** Easily inspect log files, update detection window thresholds on the fly, and view generated security alerts directly in the GUI.
-- **Automated Report & Alert Generation:**
-  - Saves date-stamped threat detection alerts in the `/alerts` directory.
-  - Exports top source talkers and top target destination ports to CSV format in the `/reports` directory.
-  - Records malformed or invalid log file lines into `rejects.txt`.
+A C++/Qt6 desktop application that parses network log files (`.csv`), detects potential security threats using sliding-window thresholds, and exports structured reports.
 
 ---
 
-## Technical Architecture
+## Features
+
+* **Threat Detection Engine:**
+  * **DoS Attacks:** Flags source IPs exceeding a set request volume within a given timeframe.
+  * **Brute-Force Login Attempts:** Detects repeated failed logins (`LOGIN`, `FAIL`) per username/IP combination.
+  * **Port Scanning:** Detects single IPs attempting to access multiple distinct destination ports within a short window.
+* **Whitelist Support:** Whitelist trusted IPs on the fly or via `whitelist.txt` to suppress false positive alerts.
+* **Log Parsing & Error Handling:** Validates log formatting, strips malformed rows, and logs errors to `rejects.txt`.
+* **Alerts & Reports:** 
+  * Saves flagged security events under `alerts/alerts_<date>.txt`.
+  * Generates top-talker and top-target summary reports under `reports/report_<date>.csv`.
+
+---
+
+## Built With
 
 * **Language:** C++17
-* **GUI Framework:** Qt6 (Widgets module)
-* **Build System:** CMake (3.16+)
-* **Core Components:**
-  - `LogicAnalyzer`: Core threat detection logic, sliding-window algorithms, time conversions, and CSV parsing.
-  - `MainWindow`: Main Qt graphical dashboard handling button events, dialog inputs, and UI text updates.
-  - `ThresholdConfigDialog`: Custom Qt dialog for threshold parameter updates.
+* **GUI Framework:** Qt 6 (Widgets)
+* **Build System:** CMake 3.16+
 
 ---
 
-## Getting Started
-1. **Download the Application:** Download and extract the `Project-Application` folder from the repository. This folder contains all necessary dependencies and runtime files required to run the application.
+## Quick Start
+
+1. **Download:** Download and unzip the `Project-Application` folder from the repository.
 2. **Review Documentation:** Read through this `README.md` file for details on application features and expected log formats.
-3. **Launch the Application:** Navigate into the `Project-Application` folder and double-click `ProjectFinal.exe` to start the program.
+3. **Run:** Open the folder and launch `ProjectFinal.exe`.
+
+### Expected Log File Format (`.csv`)
+
+Your input log file should be formatted as follows:
+
+```csv
+Timestamp,SourceIP,DestIP,Port,Action,Username,Result
+2025-03-01T10:22:14,192.168.1.5,10.0.0.1,80,LOGIN,admin,FAIL
