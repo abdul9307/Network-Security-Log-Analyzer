@@ -31,7 +31,8 @@ A C++/Qt6 desktop application that parses network log files (`.csv`), detects po
 1. **Download:** Download and unzip the `Project-Application` folder from the repository.
 2. **Review Documentation:** Read through this `README.md` file for details on application features and expected log formats.
 3. **Run:** Open the folder and launch `ProjectFinal.exe`.
-
+4. You can use your own csv file following the format below or download and use logs_2026-10-03.csv to test the program.
+   
 ### Expected Log File Format (`.csv`)
 
 Your input log file should be formatted as follows:
